@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Distribuidora de Golosinas</title>
+    <title>Distribuidora ISSA </title>
     <style>
         /* Estilos globales */
         body {
@@ -32,7 +32,7 @@
             font-weight: bold;
         }
         .banner {
-            background: url('https://example.com/banner-golosinas.jpg') no-repeat center;
+            background: url('https://example.com/banner-Productos.jpg') no-repeat center;
             background-size: cover;
             height: 300px;
             display: flex;
@@ -87,8 +87,8 @@
 </head>
 <body>
     <header>
-        <h1>Distribuidora de Golosinas y Dulces</h1>
-        <p>¡Los mejores dulces y galletas a tu alcance!</p>
+        <h1>Distribuidora ISSA </h1>
+        <p>¡</p>
     </header>
     <nav>
         <a href="#productos">Productos</a>
@@ -96,7 +96,7 @@
         <a href="#contacto">Contacto</a>
     </nav>
     <section class="banner">
-        <p>¡Sabor y Diversión en Cada Bocado!</p>
+        <p>¡</p>
     </section>
     <section id="productos" class="section">
         <h2>Nuestros Productos</h2>
@@ -107,11 +107,11 @@
             </div>
             <div class="product">
                 <h3>Dulces</h3>
-                <p>Chocolates, bombones y dulces artesanales.</p>
+                <p>Chocolates, bombones y dulces .</p>
             </div>
             <div class="product">
-                <h3>Galletas</h3>
-                <p>Galletas surtidas para todas las edades.</p>
+                <h3></h3>
+                <p>.</p>
             </div>
         </div>
     </section>
